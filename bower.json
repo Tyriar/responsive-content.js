@@ -1,0 +1,22 @@
+{
+  "name": "relative-dir.js",
+  "main": "relative-dir.js",
+  "version": "2.0.0",
+  "homepage": "https://github.com/Tyriar/relative-dir.js",
+  "authors": [
+    "Tyriar (http://www.growingwiththeweb.com)"
+  ],
+  "description": "A JavaScript library that transforms a piece of text at a breakpoint as well as produces a screen reader specific version.",
+  "keywords": [
+    "accessibility",
+    "html"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "relative-dir.js",
+  "version": "2.0.0",
+  "description": "A JavaScript library that transforms a piece of text at a breakpoint as well as produces a screen reader specific version.",
+  "main": "relative-dir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tyriar/relative-dir.js.git"
+  },
+  "keywords": [
+    "accessibility",
+    "html"
+  ],
+  "author": "Daniel Imms <tyriar@tyriar.com> (http://www.growingwiththeweb.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyriar/relative-dir.js/issues"
+  },
+  "homepage": "https://github.com/Tyriar/relative-dir.js"
+}
