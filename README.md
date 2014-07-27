@@ -1,6 +1,6 @@
-# relative-dir.js
+# relative-dir.js [![NPM version](http://img.shields.io/npm/v/relative-dir.js.svg?style=flat)](https://www.npmjs.org/package/relative-dir.js)
 
-[![Code Climate](https://codeclimate.com/github/Tyriar/relative-dir.js.png)](https://codeclimate.com/github/Tyriar/relative-dir.js)
+[![Code climate](http://img.shields.io/codeclimate/github/Tyriar/relative-dir.js.svg?style=flat)](https://codeclimate.com/github/Tyriar/relative-dir.js)
 
 A JavaScript library that transforms a piece of text at a breakpoint as well as produces a screen reader specific version.
 
@@ -12,13 +12,11 @@ The specific use case this was created for was for the use of relative direction
 
 **Bower**
 
-```
+```bash
+# via bower
 bower install --save relative-dir.js
-```
 
-**NPM**
-
-```
+# via npm
 npm install --save relative-dir.js
 ```
 
