@@ -1,14 +1,14 @@
 {
-  "name": "relative-dir.js",
-  "version": "2.0.0",
-  "description": "A JavaScript library that transforms a piece of text at a breakpoint as well as produces a screen reader specific version.",
-  "main": "relative-dir.js",
+  "name": "responsive-content.js",
+  "version": "2.0.1",
+  "description": "Transforms a piece of text at a breakpoint as well as produces a screen reader specific version.",
+  "main": "responsive-content.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tyriar/relative-dir.js.git"
+    "url": "https://github.com/Tyriar/responsive-content.js.git"
   },
   "keywords": [
     "accessibility",
@@ -17,7 +17,7 @@
   "author": "Daniel Imms <tyriar@tyriar.com> (http://www.growingwiththeweb.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tyriar/relative-dir.js/issues"
+    "url": "https://github.com/Tyriar/responsive-content.js/issues"
   },
-  "homepage": "https://github.com/Tyriar/relative-dir.js"
+  "homepage": "https://github.com/Tyriar/responsive-content.js"
 }
