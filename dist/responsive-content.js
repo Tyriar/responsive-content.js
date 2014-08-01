@@ -1,10 +1,15 @@
-/*! responsive-content.js | (c) 2014 Daniel Imms | github.com/Tyriar/responsive-content.js/blob/master/LICENSE */
+﻿/*
+ * relative-dir.js
+ * MIT licensed
+ *
+ * Created by Daniel Imms, http://www.growingwiththeweb.com
+ */
 
-var responsiveContent = (function () {
+var relativeDir = (function () {
   function init() {
-    var nodes = document.getElementsByClassName('responsive-content');
-    for (var i = 0; i < nodes.length; i++) {
-      var node = nodes[i];
+    var relativeNodes = document.getElementsByClassName('relative-dir');
+    for (var i = 0; i < relativeNodes.length; i++) {
+      var node = relativeNodes[i];
       var breakpoint = node.getAttribute('data-breakpoint');
       var altText = node.getAttribute('data-text');
       var accessibleText = node.getAttribute('data-accessible-text') || altText;
