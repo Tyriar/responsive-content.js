@@ -31,7 +31,7 @@ npm install --save responsive-content.js
 
 This will change the span's content to "above" when the viewport is less than 600 pixels wide.
 
-```javascript
+```html
 <span class="responsive-content" data-breakpoint="600" data-text="above">left</span>
 <script>
   // Initialise
@@ -43,13 +43,13 @@ This will change the span's content to "above" when the viewport is less than 60
 
 The optional `data-accessible-text` attribute can be used to specify a screen reader version of the text explicitly.
 
-```javascript
+```html
 <span class="responsive-content" data-breakpoint="600" data-text="right" data-accessible-text="above">left</span>
 ```
 
 This will transform to this, where the element with `aria-hidden="true"` will change depending on viewport width.
 
-```javascript
+```html
 <span class="responsive-content" data-breakpoint="600" data-text="above">
   <span aria-hidden="true">to the left</span>
   <span style="position: absolute; left: -9999px;">above</span>
