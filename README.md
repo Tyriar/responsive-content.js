@@ -1,7 +1,6 @@
-# responsive-content.js [![NPM version](http://img.shields.io/npm/v/responsive-content.js.svg?style=flat)](https://www.npmjs.org/package/responsive-content.js)
+# responsive-content.js
 
-[![Build Status](http://img.shields.io/travis/Tyriar/responsive-content.js.svg?style=flat)](http://travis-ci.org/Tyriar/responsive-content.js)
-[![Code climate](http://img.shields.io/codeclimate/github/Tyriar/responsive-content.js.svg?style=flat)](https://codeclimate.com/github/Tyriar/responsive-content.js)
+[![Build Status](https://travis-ci.org/Tyriar/responsive-content.js.svg?branch=master)](https://travis-ci.org/Tyriar/responsive-content.js)
 
 A JavaScript library that transforms a piece of text at a breakpoint as well as produces a screen reader specific version.
 
